@@ -1,8 +1,8 @@
 {
   "name": "DConfig 2 - NEW In-Game DarkRP Customization ( Jobs, Shipments, ETC )",
   "version": "1.4.1",
-  "image": "https://github.com/qLeaker/Cloud/blob/main/gmod/images/Bitminers%20-%20DLC%20%231%20(Remote%20Tablet,%20Hacking%20&%20Repairing%20Entities).png?raw=true",
-  "file": "https://github.com/qLeaker/Cloud/raw/main/gmod/files/Bitminers%20-%20DLC%20%231%20(Remote%20Tablet%2C%20Hacking%20%26%20Repairing%20Entities).json",
+  "image": "https://raw.githubusercontent.com/qLeaker/Cloud/1f516aa716fe6d2ecbd5d130886a1ca8d6688b73/gmod/images/DConfig%202%20-%20NEW%20In-Game%20DarkRP%20Customization%20(%20Jobs%2C%20Shipments%2C%20ETC%20).png",
+  "file": "https://github.com/qLeaker/Cloud/raw/main/gmod/files/DConfig%202%20-%20NEW%20In-Game%20DarkRP%20Customization%20(%20Jobs%2C%20Shipments%2C%20ETC%20).json",
   "store": "https://www.gmodstore.com/market/view/dconfig-2",
   "content": ""
 }
