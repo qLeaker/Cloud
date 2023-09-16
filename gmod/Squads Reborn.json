@@ -1,8 +1,8 @@
 {
   "name": "Squads Reborn",
   "version": "1.23",
-  "image": "https://github.com/qLeaker/Cloud/raw/main/gmod/files/Squads%20Reborn.json",
-  "file": "https://github.com/qLeaker/Cloud/raw/main/gmod/files/GloriousHUD%20-%20Flat%2C%20Beautiful%2C%20Orderly.json",
+  "image": "https://github.com/qLeaker/Cloud/blob/main/gmod/images/Squads%20Reborn.png?raw=true",
+  "file": "https://github.com/qLeaker/Cloud/raw/main/gmod/files/Squads%20Reborn.json",
   "store": "https://www.gmodstore.com/market/view/squads-reborn",
   "content": ""
 }
