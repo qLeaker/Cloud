@@ -1,6 +1,6 @@
 {
   "name": "Blue's ATM",
-  "version": "latest",
+  "version": "1.4.0",
   "image": "https://github.com/qLeaker/Cloud/blob/main/gmod/images/Blue's%20ATM.png?raw=true",
   "file": "https://github.com/qLeaker/Cloud/raw/main/gmod/files/Blue's%20ATM.json",
   "store": "https://www.gmodstore.com/market/view/blue-s-atm-a-lightweight-atm-bank-system",
